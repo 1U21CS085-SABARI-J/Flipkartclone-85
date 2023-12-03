@@ -1,0 +1,266 @@
+.head{
+    vertical-align: top;
+    font-weight: 700;
+    font-size: 40px;
+    background-color: blue;
+  padding-right: 5px;  
+    padding-left: 10px;
+    padding-bottom:1%;
+    padding-top: 1%;
+    margin-top:0% ;
+    margin-bottom: 15px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.20);
+    cursor: pointer;
+    
+
+}
+
+.sym{
+    color: white;
+    text-align: left;
+    padding-left: 0;
+    padding-right: 45.5%;
+    cursor: pointer;
+}
+
+.link{
+    color: rgb(0, 113, 133);
+}
+.top{
+    color: rgb(0, 0, 0);
+}
+.info{
+    color: gray;
+}
+.img-dis3,.img-dis4{
+    width: 230px;
+    height: 250px;
+}
+.img-dis,.img-dis2{
+    width: 230px;
+    height: 250px;
+}
+
+.mon,.mon2{
+    color: rgb(21, 255, 0);
+ font-weight: bold;
+}
+
+.free,.free2{
+    color: black;
+}
+
+
+.flipkart{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: centre;
+    margin-left: 120px;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-color: rgb(20, 55, 255);
+    border-style: solid;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.15);
+    border-radius:4px;
+    padding-left: 12px;
+    transition: 0.2s;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+   } 
+
+.link1{
+    color: rgb(0,0,0);
+    background-color: rgb(255, 255, 255);
+    text-align: centre;
+    margin-left: 120px;
+    font-size: 15px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-color: rgb(255, 164, 28);
+    border-style: solid;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.15);
+    border-radius:4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    transition: 0.2s;
+    
+
+}
+
+.flipkart:hover{
+    opacity: 0.8;
+    color: white;
+    cursor: pointer;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+    background-color: rgb(20, 55, 255);
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    transition: 0.6s;
+}
+
+.flipkart:active{
+   opacity: 0.5;
+   cursor: pointer;
+   box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+   background-color: rgb(20, 55, 255);
+   padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+   transition: 0.2s;
+}
+
+.tot2,.tot3{
+    padding-right: 5%;
+}
+
+.tot,
+.tot2,.tot3,.tot4{
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+    padding-bottom: 3%;
+}
+
+
+.butts2,.butts{
+text-align: center;
+    display: block;
+
+}
+.gmail-logo{
+    margin: auto;
+    display: block;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: rgb(20, 55, 255);
+}
+.gmail{
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    background-color: rgb(0,0,0,0.11);
+    padding-top: 10px;
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    width: auto;
+    height: 20px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: 0.6s;
+}
+.gmail:hover{
+    opacity: 0.8;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(255, 119, 28);
+    padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+    transition: 0.6s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+ }
+ .gmail:active{
+    opacity: 0.5;
+    cursor: pointer;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    transition: 0.2s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+}
+.insta{
+    text-decoration: none;
+    transition: 0.6s;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    background-color: rgb(0,0,0,0.11);
+    padding-top: 10px;
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    width: auto;
+    height: 20px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.insta:hover{
+    opacity: 0.8;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(255, 0, 106);
+    padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+    transition: 0.6s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+ }
+
+.insta:active{
+    opacity: 0.5;
+    cursor: pointer;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    transition: 0.2s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+}
+.back{
+    text-align: center;
+    display: block;
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.link1:hover{
+   opacity: 0.8;
+   cursor: pointer;
+   color: white;
+   background-color: rgb(255, 164, 28);
+   padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+   transition: 0.6s;
+   box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+}
+.price,.price2{
+    text-decoration: line-through;
+    color: gray;
+}
+.link1:active{
+    opacity: 0.5;
+    cursor: pointer;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    transition: 0.2s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.20);
+}

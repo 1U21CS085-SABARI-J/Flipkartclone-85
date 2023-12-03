@@ -1,0 +1,100 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: roboto;
+
+}
+
+.iphone{
+    display: block;
+    width: 500px;
+
+}
+.title1{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    text-align: center;
+    
+}
+
+
+.stats{
+    font-size: 14px;
+    color: gray;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    display: inline-block
+}
+.author{
+    color: gray;
+}
+
+.head{
+    margin-bottom: 20px;
+}
+
+.tagline{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(64, 88, 227);
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.big{
+    color: yellow;
+    text-decoration: underline;
+    transition: 0.6s;
+}
+
+.big:hover{
+    color: yellow;
+    font-size: 16px;
+    transition: 0.6s;
+    box-shadow: rgba(0, 0, 0, 0.20);
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.big:active{
+    color: yellow;
+    font-size: 16px;
+    transition: 0.2s;
+    
+    padding-left: 6px;
+    padding-right: 6px;
+    opacity: 0.6;
+}
+
+.shopbutt{
+    color: black;
+    transition: 0.6s;
+
+}
+
+.shopbutt:hover{
+    color: yellow;
+    transition: 0.6s;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.20);
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.shopbutt:active{
+    color: yellow;
+    transition: 0.2s;
+    padding-left: 6px;
+    padding-right: 6px;
+    opacity: 0.6;
+}
